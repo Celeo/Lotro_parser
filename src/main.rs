@@ -68,7 +68,7 @@ impl<'a> Parser<'a> {
 
     fn update_stats(&mut self) -> Stats {
         lazy_static! {
-            static ref RE_DAMAGE: Regex = Regex::new(r"^([a-zA-Z0-9-_ ]+) scored a [a-zA-Z0-9 ]*hit with [a-zA-Z0-9 ]+ on ([a-zA-Z0-9-_ ]+) for (\d+) [\w]+ damage to [a-zA-Z0-9- ]+.$").unwrap();
+            static ref RE_DAMAGE: Regex = Regex::new(r"^([a-zA-Z0-9-_ ]+) scored a [a-zA-Z0-9 ]*hit with ([a-zA-Z0-9 ]+) on ([a-zA-Z0-9-_ ]+) for (\d+) [\w]+ damage to [a-zA-Z0-9- ]+.$").unwrap();
             static ref RE_HEAL: Regex = Regex::new(
                 r"^([a-zA-Z0-9-_ ]+) applied a heal to ([a-zA-Z0-9-_ ]+) restoring (\d+) points to Morale.$",
             )
@@ -81,9 +81,10 @@ impl<'a> Parser<'a> {
             if RE_DAMAGE.is_match(test) {
                 let info = RE_DAMAGE.captures(test).unwrap();
                 let agressor = &info[1];
-                let target = &info[2];
-                let value = &info[3];
-                println!("{} hit {} for {}", agressor, target, value);
+                let attack = &info[2];
+                let target = &info[3];
+                let value = &info[4];
+                println!("{} hit {} with {} for {}", agressor, target, attack, value);
             } else if RE_HEAL.is_match(test) {
                 let info = RE_HEAL.captures(test).unwrap();
                 let skill_name = &info[1];

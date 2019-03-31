@@ -15,6 +15,7 @@ Your mighty blow defeated the Burrowing Sand-norbog.
 Celeo scored a hit with Cunning Attack on the Burrowing Sand-norbog for 337 Westernesse damage to Morale.
 Celeo scored a devastating hit with a melee attack on the Burrowing Sand-norbog for 409 Westernesse damage to Morale.
 Celeo scored a critical hit with a melee attack on the Burrowing Sand-norbog for 308 Common damage to Morale.
+Celeo scored a hit with Surprise Strike on the Burrowing Sand-norbog for 510 Westernesse damage to Morale.
 Bob and Weave applied a heal to Celeo restoring 123 points to Morale.
 Bob and Weave applied a heal to Celeo restoring 123 points to Morale.
 Bob and Weave applied a heal to Celeo restoring 123 points to Morale.
