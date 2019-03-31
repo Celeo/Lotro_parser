@@ -1,0 +1,1557 @@
+### Chat Log: Combat 03/31 10:59 AM ###
+Celeo applied a benefit with Track Treasure on Celeo.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 428 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 486 points to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 182 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 429 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 282 points to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 197 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 263 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 224 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 260 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 279 points to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 551 points to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 194 points to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 182 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 374 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 214 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 189 points to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 366 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 274 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 87 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 90 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 177 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 496 points to Morale.
+Celeo scored a hit with Reveal Weakness on Nornúan.
+Eloriel applied a heal with Rousing Words to Celeo restoring 175 points to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 115 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 125 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 182 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 201 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 278 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Quite a Snag on Nornúan for 395 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 106 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 102 Common damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 713 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Trick: Improved Disable on Nornúan for 399 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo applied a benefit with Trickster on Celeo.
+Sigi applied a critical heal with Aid the Assault to Celeo restoring 3,612 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 220 points to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 518 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,615 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+Celeo scored a hit with Cunning Attack on Nornúan for 362 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,577 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 310 Westernesse damage to Morale.
+Sigi applied a critical heal with Aid the Assault to Celeo restoring 3,417 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 120 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 192 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Cunning Attack on Nornúan for 253 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 253 Westernesse damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 278 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,569 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 255 points to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,652 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Celeo scored a hit with Surprise Strike on Nornúan for 382 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,541 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 342 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 110 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 144 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo tried to use Induce Fellowship Manoeuvre Stunned on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Exploit Opening on Nornúan for 486 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 255 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 370 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 147 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 188 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 466 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 119 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 124 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 297 Westernesse damage to Morale.
+Celeo scored a devastating hit with Double-edged Strike on Nornúan for 762 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 247 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a devastating hit with Quite a Snag on Nornúan for 764 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 165 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 132 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 327 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 165 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 188 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 251 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 473 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 539 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 428 points to Morale.
+Lufe applied a heal with Lend Power - Fellowship to Celeo restoring 322 points to Power.
+Celeo scored a hit with a melee attack on Nornúan for 103 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 113 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 462 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 426 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 187 points to Morale.
+Celeo scored a critical hit with Trick: Counter Defence on Nornúan for 523 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 433 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 105 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 112 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 365 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 438 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 426 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 505 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 330 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 291 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 134 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 190 Common damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 368 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 269 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 432 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 430 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with Surprise Strike on Nornúan for 434 Westernesse damage to Morale.
+Celeo scored a critical hit with Critical Cunning Attack on Nornúan for 814 Westernesse damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 536 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 297 points to Morale.
+Celeo scored a devastating hit with a melee attack on Nornúan for 238 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 134 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 341 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 316 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 79 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 130 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 342 Westernesse damage to Morale.
+Celeo scored a critical hit with Critical Cunning Attack on Nornúan for 596 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 226 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 295 Common damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 265 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 218 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 182 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 88 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 100 Common damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 326 Westernesse damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 212 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 353 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 326 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 797 points to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 235 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 189 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 265 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 524 points to Morale.
+Celeo scored a critical hit with Critical Cunning Attack on Nornúan for 613 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 93 Acid damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 99 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 141 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 517 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 219 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 189 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 184 points to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 329 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 261 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 116 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 85 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 189 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 520 points to Morale.
+Celeo scored a hit with Surprise Strike on Nornúan for 290 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 183 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 333 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 385 points to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,629 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Quite a Snag on Nornúan for 413 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 100 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 97 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 183 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 190 points to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,590 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 346 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 245 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,565 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 183 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 104 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 95 Common damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,607 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 183 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 295 points to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 235 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 295 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,615 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 435 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 217 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 112 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 101 Common damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,633 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 231 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 304 Westernesse damage to Morale.
+Sigi applied a critical heal with Aid the Assault to Celeo restoring 3,433 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 138 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 102 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 231 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 231 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 231 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 295 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 962 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 1,024 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 927 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 955 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 909 points to Morale.
+Celeo scored a hit with Mischievous Delight on Nornúan.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 946 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 955 points to Morale.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 414 points to Power.
+Mischievous Delight applied a critical heal to Celeo restoring 645 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 414 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 414 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Thendo restoring 645 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 414 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 414 points to Power.
+Celeo scored a hit with a melee attack on Nornúan for 138 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 98 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 231 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 231 Westernesse damage to Morale.
+Celeo tried to use Trick: Enraged (Trick) on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with a melee attack on Nornúan for 150 Westernesse damage to Morale.
+Celeo scored a devastating hit with a melee attack on Nornúan for 180 Common damage to Morale.
+Celeo scored a hit with Trick: Enrage on Nornúan for 296 Westernesse damage to Morale.
+Celeo scored a devastating hit with a melee attack on Nornúan for 212 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 106 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 284 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 89 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 83 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo scored a hit with Cunning Attack on Nornúan for 228 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 228 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 352 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 110 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 104 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 552 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 333 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 230 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 230 Westernesse damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 265 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 114 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 167 Common damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 89 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 83 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Thendo restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 69 points to Power.
+Lufe applied a critical heal with Pleasant Breeze to Celeo restoring 2,021 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 250 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 471 Westernesse damage to Morale.
+Celeo applied a benefit with Trickster on Celeo.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 848 points to Morale.
+Celeo scored a devastating hit with Trick: Improved Disable on Nornúan for 1,058 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 89 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 83 points to Morale.
+Mischievous Delight applied a critical heal to Celeo restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Raegnar restoring 96 points to Power.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 471 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 250 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 544 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 519 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 347 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 169 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 141 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 193 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 441 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 755 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 318 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 89 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 401 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Celeo scored a hit with Surprise Strike on Nornúan for 357 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 412 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 437 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 125 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 113 Common damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 835 points to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 191 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 350 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 89 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 154 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 110 Common damage to Morale.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Mischievous Delight applied a critical heal to Celeo restoring 96 points to Power.
+Eloriel applied a heal with Rousing Words to Celeo restoring 177 points to Morale.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Celeo scored a critical hit with Critical Cunning Attack on Nornúan for 839 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 634 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 450 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 348 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 437 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 106 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 139 Common damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 89 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 385 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Celeo applied a critical heal with Mischievous Delight to MountainDaryll restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 304 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 431 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 333 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 112 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 112 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a critical hit with Critical Cunning Attack on Nornúan for 812 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 885 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 138 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 99 Common damage to Morale.
+Eloriel applied a benefit with Essay of Exaltation on Celeo.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 448 points to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 407 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 467 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 166 Acid damage to Morale.
+You have lost 166 points of temporary Morale!
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 437 Westernesse damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with a melee attack on Nornúan for 122 Westernesse damage to Morale.
+Celeo scored a devastating hit with a melee attack on Nornúan for 206 Common damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 339 Westernesse damage to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 397 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 206 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 256 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 445 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 1,058 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 166 Acid damage to Morale.
+You have lost 166 points of temporary Morale!
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 865 points to Morale.
+Celeo scored a hit with Reveal Weakness on Nornúan.
+Celeo scored a hit with Cunning Attack on Nornúan for 251 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 437 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 303 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 206 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 457 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 901 points to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 277 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 251 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 167 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 99 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 166 Acid damage to Morale.
+You have lost 166 points of temporary Morale!
+Celeo scored a hit with Cunning Attack on Nornúan for 251 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 202 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 366 points to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 437 Westernesse damage to Morale.
+Celeo scored a devastating hit with a melee attack on Nornúan for 241 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 191 Common damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 196 points to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 436 points to Morale.
+Celeo scored a devastating hit with Surprise Strike on Nornúan for 1,317 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 206 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 251 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 275 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 434 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 125 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 129 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 166 Acid damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 360 points to Morale.
+You have lost 166 points of temporary Morale!
+Celeo scored a hit with Double-edged Strike on Nornúan for 310 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 191 points to Morale.
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 784 points to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 438 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 275 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 275 Westernesse damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Eloriel applied a heal with Rousing Words to Celeo restoring 196 points to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 317 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 179 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 120 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 206 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 538 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 166 Acid damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+You have lost 166 points of temporary Morale!
+Celeo scored a critical hit with Subtle Stab on Nornúan for 595 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 538 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 927 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 151 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 211 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 343 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 206 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 275 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 274 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 173 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 148 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 516 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 166 Acid damage to Morale.
+You have lost 166 points of temporary Morale!
+Celeo scored a hit with a melee attack on Nornúan for 116 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 152 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 274 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 412 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 516 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 493 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 206 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 474 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 516 Westernesse damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 874 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 931 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 867 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 826 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 859 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 842 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 867 points to Morale.
+Celeo scored a hit with Mischievous Delight on Nornúan.
+You have lost 3,067 points of temporary Morale!
+Mischievous Delight applied a critical heal to Celeo restoring 561 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 360 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Thendo restoring 561 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Lufe restoring 561 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 360 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 561 points to Power.
+Celeo scored a hit with a melee attack on Nornúan for 110 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 147 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 382 Westernesse damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 298 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,674 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 238 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 135 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 87 Common damage to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 75 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo scored a hit with Cunning Attack on Nornúan for 199 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 83 points to Power.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,626 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 327 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 185 Acid damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 268 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,590 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 129 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 100 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 265 Westernesse damage to Morale.
+Sigi applied a critical heal with Aid the Assault to Celeo restoring 3,397 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 75 points to Morale.
+Mischievous Delight applied a critical heal to Celeo restoring 83 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Raegnar restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Thendo restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,639 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 92 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 76 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 382 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 289 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 419 points to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,610 points to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 262 Common damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 438 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,593 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 112 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 117 Common damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 75 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Celeo scored a critical hit with Surprise Strike on Nornúan for 868 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,681 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 134 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 80 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 201 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 379 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 457 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 301 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 125 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 93 Common damage to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to MountainDaryll restoring 83 points to Power.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 83 points to Power.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Reveal Weakness on Nornúan.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 383 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 383 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 265 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 127 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 152 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 125 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 108 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 702 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 504 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 311 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 283 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 123 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 98 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 383 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 254 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 136 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 73 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 203 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 775 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 239 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 182 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 342 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 121 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 81 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 182 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 208 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 96 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 75 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 353 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 746 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 353 Westernesse damage to Morale.
+Lufe applied a heal with Lend Power - Fellowship to Celeo restoring 308 points to Power.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 353 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 113 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 78 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 221 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 326 Common damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 201 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 188 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 188 Westernesse damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 353 Westernesse damage to Morale.
+Celeo scored a devastating hit with Quite a Snag on Nornúan for 576 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 105 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 139 Common damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 211 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 435 points to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 903 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 188 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 188 Westernesse damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 216 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 198 points to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 122 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 104 Common damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 267 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 1,081 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 519 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 349 Westernesse damage to Morale.
+Celeo applied a benefit with Trickster on Celeo.
+Celeo scored a hit with Cunning Attack on Nornúan for 185 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 104 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 108 Common damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 518 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Trick: Improved Disable on Nornúan for 387 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 179 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 179 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 385 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 120 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 77 Common damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 897 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 134 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 96 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 426 Westernesse damage to Morale.
+Lufe applied a benefit with Pleasant Breeze on Celeo.
+Celeo scored a hit with Double-edged Strike on Nornúan for 327 Westernesse damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 723 Common damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Lufe applied a heal with Pleasant Breeze to Celeo restoring 757 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 322 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 163 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 144 Common damage to Morale.
+Celeo scored a critical hit with Critical Cunning Attack on Nornúan for 804 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 323 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 1,121 points to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 426 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 312 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 426 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 113 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 95 Common damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,682 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 462 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 365 points to Morale.
+Celeo scored a hit with Surprise Strike on Nornúan for 336 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 290 Westernesse damage to Morale.
+Sigi applied a critical heal with Aid the Assault to Celeo restoring 3,423 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 108 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 108 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 433 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,615 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 469 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 162 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 126 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 344 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,673 points to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 433 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 825 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,588 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Sigi applied a critical heal with Aid the Assault to Celeo restoring 3,492 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 469 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 433 Westernesse damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 616 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 441 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 469 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,662 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 162 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 189 Common damage to Morale.
+Celeo scored a critical hit with Trick: Counter Defence on Nornúan for 523 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 433 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 1,071 points to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 851 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 462 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 486 points to Morale.
+Celeo scored a devastating hit with Cunning Attack on Nornúan for 721 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 152 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 189 Common damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 177 points to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 358 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 128 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 121 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 524 Westernesse damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 284 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 160 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 177 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 462 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 946 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 524 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 1,061 points to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 212 points to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Surprise Strike on Nornúan for 400 Westernesse damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 181 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 165 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 106 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 253 Westernesse damage to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 541 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 349 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 455 Common damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 529 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 146 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 102 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 337 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 543 Westernesse damage to Morale.
+Celeo scored a critical hit with Devastating Cunning Attack on Nornúan for 1,159 Westernesse damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 345 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 275 Acid damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 143 Westernesse damage to Morale.
+Celeo scored a devastating hit with a melee attack on Nornúan for 221 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 615 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 288 Westernesse damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 341 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 367 Acid damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 333 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 395 points to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 615 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 173 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 171 Common damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 351 Westernesse damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 845 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 367 Acid damage to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 615 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 403 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 184 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 136 Common damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 374 points to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 616 Westernesse damage to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 609 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 140 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 162 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+Celeo scored a hit with a melee attack on Nornúan for 109 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 147 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 297 Westernesse damage to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 587 Westernesse damage to Morale.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 3 to Celeo restoring 418 points to Morale.
+Celeo scored a hit with Devastating Cunning Attack on Nornúan for 587 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 369 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 437 Common damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 574 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 142 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 128 Common damage to Morale.
+Celeo tried to use Trick: Enraged (Trick) on Nornúan but he was immune to the attempt.
+Eloriel applied a heal with Rune of Restoration to Celeo restoring 188 points to Morale.
+Celeo scored a hit with Trick: Enrage on Nornúan for 409 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 135 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 133 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 375 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 3 to Celeo restoring 1,141 points to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 839 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 154 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 164 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 285 Westernesse damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 386 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 392 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 153 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 147 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 285 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 372 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 874 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 931 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 859 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 842 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 867 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 826 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 826 points to Morale.
+Celeo scored a hit with Mischievous Delight on Nornúan.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Mischievous Delight applied a heal to Celeo restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 360 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Lufe restoring 561 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 360 points to Power.
+Celeo scored a hit with Cunning Attack on Nornúan for 275 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,648 points to Morale.
+Celeo scored a hit with Trick: Improved Disable on Nornúan for 375 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,585 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 275 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 836 points to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,621 points to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 418 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,676 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 511 Westernesse damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 339 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,678 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 81 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Eloriel applied a critical benefit with Essay of Exaltation on Celeo.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 83 points to Power.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,583 points to Morale.
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 958 points to Morale.
+Celeo applied a benefit with Trickster on Celeo.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 511 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 323 points to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,717 points to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 409 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 88 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Celeo scored a hit with Trick: Improved Disable on Nornúan for 488 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 414 Acid damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 475 Westernesse damage to Morale.
+You have lost 414 points of temporary Morale!
+Mischievous Delight applied a critical heal to Celeo restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 83 points to Power.
+Celeo scored a hit with Cunning Attack on Nornúan for 304 Westernesse damage to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 415 points to Morale.
+Eloriel applied a heal with Writ of Health - Tier 2 to Celeo restoring 419 points to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 400 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 82 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 88 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Lufe applied a heal with Lend Power - Fellowship to Celeo restoring 380 points to Power.
+Celeo scored a critical hit with a melee attack on Nornúan for 124 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 79 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 414 Acid damage to Morale.
+Nornúan defeated Eadryt.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo scored a hit with Cunning Attack on Nornúan for 185 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 349 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+You have lost 414 points of temporary Morale!
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 809 points to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 259 Westernesse damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 527 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 185 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 185 Westernesse damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 88 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 1,081 points to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 205 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 91 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 87 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 414 Acid damage to Morale.
+You have lost 414 points of temporary Morale!
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Eloriel applied a critical heal with Writ of Health - Tier 2 to Celeo restoring 1,028 points to Morale.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Raegnar restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 717 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Eadryt has been revived.
+Celeo scored a hit with Subtle Stab on Nornúan for 321 Westernesse damage to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 339 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 98 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 186 Common damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 95 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Celeo scored a critical hit with Surprise Strike on Nornúan for 1,049 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 414 Acid damage to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Lufe restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+You have lost 414 points of temporary Morale!
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 249 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 166 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 90 Common damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 821 points to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 332 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 389 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 414 Acid damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+You have lost 414 points of temporary Morale!
+Celeo scored a critical hit with Subtle Stab on Nornúan for 534 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 119 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 103 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 406 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 309 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 295 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 165 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 138 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 414 Acid damage to Morale.
+You have lost 414 points of temporary Morale!
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+You have lost 1,579 points of temporary Morale!
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Quite a Snag on Nornúan for 557 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 140 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 141 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 251 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 460 Acid damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 348 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 655 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 469 Acid damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+Celeo scored a devastating hit with a melee attack on Nornúan for 225 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 116 Common damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 473 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 251 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 247 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 290 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 376 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 143 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 115 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 469 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo tried to use Induce Fellowship Manoeuvre Stunned on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Exploit Opening on Nornúan for 481 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 753 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 363 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 159 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 186 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with a melee attack on Nornúan for 139 Westernesse damage to Morale.
+Celeo scored a devastating hit with a melee attack on Nornúan for 189 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 469 Acid damage to Morale.
+Celeo scored a hit with Quite a Snag on Nornúan for 256 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 468 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 326 points to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 274 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 140 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 139 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 469 Acid damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 615 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 401 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 253 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 253 Westernesse damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+Celeo scored a hit with Trick: Dust in the Eyes on Nornúan.
+Celeo scored a hit with Cunning Attack on Nornúan for 253 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 168 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 192 Common damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 962 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 927 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 946 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 1,161 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 955 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 909 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 909 points to Morale.
+Celeo scored a hit with Mischievous Delight on Nornúan.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 414 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 414 points to Power.
+Mischievous Delight applied a critical heal to Celeo restoring 645 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 414 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 414 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 414 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 414 points to Power.
+Celeo scored a hit with a melee attack on Nornúan for 104 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 102 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 248 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 99 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 180 Common damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 404 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 462 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 101 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Raegnar restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 69 points to Power.
+Celeo scored a hit with Quite a Snag on Nornúan for 309 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 107 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 101 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 245 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 462 Westernesse damage to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 462 Westernesse damage to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 529 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,643 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 106 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 117 Common damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 101 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Lufe restoring 96 points to Power.
+Celeo applied a critical heal with Mischievous Delight to MountainDaryll restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 69 points to Power.
+Celeo scored a hit with Double-edged Strike on Nornúan for 281 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,678 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 404 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 215 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 324 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Sigi applied a critical heal with Aid the Assault to Celeo restoring 3,431 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 253 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 143 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 95 Common damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,569 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 401 Westernesse damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 101 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Mischievous Delight applied a critical heal to Celeo restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Raegnar restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 69 points to Power.
+Celeo scored a critical hit with a melee attack on Nornúan for 142 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 80 Common damage to Morale.
+Celeo scored a hit with Surprise Strike on Nornúan for 332 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 404 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,682 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 395 points to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 463 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,641 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 215 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 113 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 122 Common damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 263 Westernesse damage to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 469 points to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 215 Westernesse damage to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,651 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 101 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Celeo applied a critical heal with Mischievous Delight to MountainDaryll restoring 96 points to Power.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 397 points to Morale.
+Sigi applied a heal with Aid the Assault to Celeo restoring 1,592 points to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 404 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Eloriel applied a heal with Rousing Words to Celeo restoring 166 points to Morale.
+Celeo scored a devastating hit with Trick: Counter Defence on Nornúan for 610 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 404 Westernesse damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 325 points to Morale.
+Celeo applied a benefit with Trickster on Celeo.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 463 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 97 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 511 points to Morale.
+Celeo scored a devastating hit with Trick: Improved Disable on Nornúan for 835 Westernesse damage to Morale.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 404 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 213 Westernesse damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 532 Westernesse damage to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 79 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 97 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 79 points to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 326 Common damage to Morale.
+Mischievous Delight applied a critical heal to Celeo restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 96 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 69 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 69 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 96 points to Power.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 280 points to Morale.
+Celeo scored a critical hit with Opportunism on Nornúan for 1,127 damage to Morale.
+Celeo scored a critical hit with Subtle Stab on Nornúan for 459 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 117 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 108 Common damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 642 Acid damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a critical hit with Quite a Snag on Nornúan for 479 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 213 Westernesse damage to Morale.
+Celeo scored a hit with Improved Addle on Nornúan.
+Celeo scored a hit with Improved Addle on Nornúan.
+Celeo scored a critical hit with Cunning Attack on Nornúan for 461 Westernesse damage to Morale.
+Eloriel applied a benefit with Essay of Exaltation on Celeo.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 370 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 514 Acid damage to Morale.
+Eloriel applied a heal with Writ of Health - Tier 1 to Celeo restoring 280 points to Morale.
+You have lost 514 points of temporary Morale!
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 500 Acid damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 342 Westernesse damage to Morale.
+Nornúan scored a hit with Spine-barrage on Celeo.
+You have lost 500 points of temporary Morale!
+Celeo scored a hit with a melee attack on Nornúan for 116 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 106 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 267 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 465 Westernesse damage to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 419 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 107 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 204 Common damage to Morale.
+Celeo scored a critical hit with Double-edged Strike on Nornúan for 653 Westernesse damage to Morale.
+Celeo scored a hit with Double-edged Strike on Nornúan for 457 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 264 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 459 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 500 Acid damage to Morale.
+You have lost 500 points of temporary Morale!
+Celeo scored a hit with a melee attack on Nornúan for 161 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 137 Common damage to Morale.
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 900 points to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 823 points to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Celeo scored a hit with Quite a Snag on Nornúan for 269 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 264 Westernesse damage to Morale.
+Celeo scored a critical hit with Critical Cunning Attack on Nornúan for 864 Westernesse damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+Celeo scored a hit with Subtle Stab on Nornúan for 332 Westernesse damage to Morale.
+Eloriel applied a critical heal with Essay of Exaltation to Celeo restoring 1,039 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 500 Acid damage to Morale.
+You have lost 500 points of temporary Morale!
+Celeo scored a hit with a melee attack on Nornúan for 146 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 141 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 375 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 459 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 264 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 751 points to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 362 points to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 130 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 127 Common damage to Morale.
+Celeo scored a hit with Surprise Strike on Nornúan for 431 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 264 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 459 Westernesse damage to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 562 Acid damage to Morale.
+Celeo scored a hit with Opportunism on Nornúan for 723 damage to Morale.
+You have lost 562 points of temporary Morale!
+Celeo scored a hit with Subtle Stab on Nornúan for 306 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 130 Westernesse damage to Morale.
+Celeo scored a critical hit with a melee attack on Nornúan for 193 Common damage to Morale.
+Eloriel applied a heal with Essay of Exaltation to Celeo restoring 447 points to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 502 Westernesse damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 288 Westernesse damage to Morale.
+Celeo scored a hit with Trick: Improved Disable on Nornúan for 391 Westernesse damage to Morale.
+Eloriel applied a critical heal with Writ of Health - Tier 1 to Celeo restoring 637 points to Morale.
+Nornúan scored a hit with Gushing Wound on Celeo for 562 Acid damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 957 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 925 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 942 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 1,013 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 950 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 826 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 826 points to Morale.
+You have lost 562 points of temporary Morale!
+Celeo scored a hit with Mischievous Delight on Nornúan.
+Mischievous Delight applied a heal to Celeo restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 360 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 561 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 360 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 360 points to Power.
+Celeo scored a critical hit with a melee attack on Nornúan for 188 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 150 Common damage to Morale.
+Celeo scored a hit with Cunning Attack on Nornúan for 288 Westernesse damage to Morale.
+Celeo scored a hit with Critical Cunning Attack on Nornúan for 502 Westernesse damage to Morale.
+Celeo scored a hit with Trick: Counter Defence on Nornúan for 365 Westernesse damage to Morale.
+Celeo tried to use Root on Nornúan but he was immune to the attempt.
+Dariadan defeated Nornúan.
+Celeo scored a critical hit with Quite a Snag on Nornúan for 558 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 149 Westernesse damage to Morale.
+Celeo scored a hit with a melee attack on Nornúan for 114 Common damage to Morale.
+Mischievous Glee applied a heal to Celeo restoring 83 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 80 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 89 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 82 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to MountainDaryll restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Eloriel applied a heal with Rousing Words to Celeo restoring 193 points to Morale.
+You have lost 925 points of temporary Morale!
+Eloriel applied a heal with Rousing Words to Celeo restoring 158 points to Morale.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 86 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Eloriel applied a critical heal with Rousing Words to Celeo restoring 511 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 86 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Eloriel restoring 83 points to Power.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 86 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to MountainDaryll restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Mischievous Delight applied a heal to Celeo restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to Sigi restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to MountainDaryll restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.
+Mischievous Glee applied a heal to Celeo restoring 76 points to Morale.
+Celeo applied a heal with Mischievous Glee to Raegnar restoring 84 points to Morale.
+Celeo applied a heal with Mischievous Glee to Lufe restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Eloriel restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to MountainDaryll restoring 72 points to Morale.
+Celeo applied a heal with Mischievous Glee to Sigi restoring 75 points to Morale.
+Celeo applied a heal with Mischievous Glee to Thendo restoring 73 points to Morale.
+Mischievous Delight applied a critical heal to Celeo restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to Raegnar restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Lufe restoring 60 points to Power.
+Celeo applied a critical heal with Mischievous Delight to MountainDaryll restoring 83 points to Power.
+Celeo applied a heal with Mischievous Delight to Sigi restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Eloriel restoring 60 points to Power.
+Celeo applied a heal with Mischievous Delight to Thendo restoring 60 points to Power.

@@ -1,104 +1,60 @@
-use lazy_static::lazy_static;
-use regex::Regex;
-use std::collections::HashMap;
-use std::fs::File;
-use std::io::prelude::BufRead;
-use std::io::BufReader;
+// mod parser;
+
 use std::thread;
-use std::time::{Duration, SystemTime};
+use std::thread::JoinHandle;
+use std::time::Duration;
+use ws::{
+    listen, CloseCode, Error as SocketError, Handler, Handshake, Message, Result as SocketResult,
+    Sender,
+};
 
-struct Stats {
-    total: HashMap<String, u64>,
-    dps: HashMap<String, u64>,
+// use parser::Parser;
+// Parser::new("data.txt").read_loop();
+
+struct Client {
+    out: Sender,
+    connected: bool,
+    comm_thread: Option<JoinHandle<()>>,
 }
 
-impl Stats {
-    fn new() -> Stats {
-        Stats {
-            total: HashMap::new(),
-            dps: HashMap::new(),
-        }
-    }
-}
-
-struct LineItem {
-    raw: String,
-    timestamp: SystemTime,
-}
-
-impl LineItem {
-    fn new(raw: String) -> LineItem {
-        LineItem {
-            raw,
-            timestamp: SystemTime::now(),
-        }
-    }
-}
-
-struct Parser<'a> {
-    file_name: &'a str,
-    reader: BufReader<File>,
-    lines: Vec<LineItem>,
-}
-
-impl<'a> Parser<'a> {
-    fn new(file_name: &str) -> Parser {
-        let f = File::open(file_name).unwrap();
-        Parser {
-            file_name,
-            reader: BufReader::new(f),
-            lines: vec![],
-        }
-    }
-
-    fn read_loop(&mut self) {
-        let mut line = String::new();
-        loop {
-            self.reader.read_line(&mut line).unwrap();
-            if line.len() == 0 {
-                // thread::sleep(Duration::from_millis(100));
-                // continue;
-                break;
+impl Handler for Client {
+    fn on_open(&mut self, _: Handshake) -> SocketResult<()> {
+        self.connected = true;
+        self.comm_thread = Some(thread::spawn(|| {
+            while self.connected {
+                println!("Thread started");
+                thread::sleep(Duration::from_millis(1000));
             }
-            self.lines.push(LineItem::new(line.clone()));
-            self.update_stats();
-            line.clear();
-        }
+        }));
+        Ok(())
     }
 
-    fn update_stats(&mut self) -> Stats {
-        lazy_static! {
-            static ref RE_DAMAGE: Regex = Regex::new(r"^([a-zA-Z0-9-_ ]+) scored a [a-zA-Z0-9 ]*hit with ([a-zA-Z0-9 ]+) on ([a-zA-Z0-9-_ ]+) for (\d+) [\w]+ damage to [a-zA-Z0-9- ]+.$").unwrap();
-            static ref RE_HEAL: Regex = Regex::new(
-                r"^([a-zA-Z0-9-_ ]+) applied a heal to ([a-zA-Z0-9-_ ]+) restoring (\d+) points to Morale.$",
-            )
-            .unwrap();
-            static ref RE_KILL: Regex = Regex::new(r"^(Your|[a-zA-Z0-9']+) mighty blow defeated ([a-zA-Z0-9-_ ]+).$").unwrap();
-        }
+    fn on_message(&mut self, msg: Message) -> SocketResult<()> {
+        println!("Got message from client: {}", msg);
+        let new_msg = format!("Server response: '{}'", msg);
+        self.out.send(new_msg)
+    }
 
-        for item in &self.lines {
-            let test = &item.raw.trim();
-            if RE_DAMAGE.is_match(test) {
-                let info = RE_DAMAGE.captures(test).unwrap();
-                let agressor = &info[1];
-                let attack = &info[2];
-                let target = &info[3];
-                let value = &info[4];
-                println!("{} hit {} with {} for {}", agressor, target, attack, value);
-            } else if RE_HEAL.is_match(test) {
-                let info = RE_HEAL.captures(test).unwrap();
-                let skill_name = &info[1];
-                let target = &info[2];
-                let value = &info[3];
-                println!("{} was healed for {} by {}.", target, value, skill_name);
-            }
-        }
+    fn on_close(&mut self, code: CloseCode, reason: &str) {
+        self.connected = false;
+        match code {
+            CloseCode::Normal => println!("The client is done with the connection."),
+            CloseCode::Away => println!("The client is leaving the site."),
+            _ => println!("The client encountered an error: {}", reason),
+        };
+    }
 
-        Stats::new()
+    fn on_error(&mut self, err: SocketError) {
+        println!("The server encountered an error: {:?}", err);
     }
 }
 
 fn main() {
-    let mut parser = Parser::new("data.txt");
-    parser.read_loop();
+    env_logger::init();
+    listen("127.0.0.1:5000", |out| Client {
+        out: out,
+        connected: false,
+        comm_thread: None,
+    })
+    .unwrap()
 }
