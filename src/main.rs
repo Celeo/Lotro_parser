@@ -1,46 +1,37 @@
-// mod parser;
+mod parser;
 
+use parser::{LineItem, Parser};
+use std::sync::mpsc;
 use std::thread;
-use std::thread::JoinHandle;
-use std::time::Duration;
 use ws::{
-    listen, CloseCode, Error as SocketError, Handler, Handshake, Message, Result as SocketResult,
-    Sender,
+    listen, CloseCode, Error as SocketError, Handler, Handshake, Result as SocketResult, Sender,
 };
 
-// use parser::Parser;
-// Parser::new("data.txt").read_loop();
-
-struct Client {
+struct Client<'a> {
     out: Sender,
     connected: bool,
-    comm_thread: Option<JoinHandle<()>>,
+    rx: &'a mpsc::Receiver<LineItem>,
 }
 
-impl Handler for Client {
+impl<'a> Handler for Client<'a> {
     fn on_open(&mut self, _: Handshake) -> SocketResult<()> {
         self.connected = true;
-        self.comm_thread = Some(thread::spawn(|| {
-            while self.connected {
-                println!("Thread started");
-                thread::sleep(Duration::from_millis(1000));
-            }
-        }));
+        println!("Client connected");
         Ok(())
     }
 
-    fn on_message(&mut self, msg: Message) -> SocketResult<()> {
-        println!("Got message from client: {}", msg);
-        let new_msg = format!("Server response: '{}'", msg);
-        self.out.send(new_msg)
-    }
+    // fn on_message(&mut self, msg: Message) -> SocketResult<()> {
+    //     println!("Got message from client: {}", msg);
+    //     let new_msg = format!("Server response: '{}'", msg);
+    //     self.out.send(new_msg)
+    // }
 
     fn on_close(&mut self, code: CloseCode, reason: &str) {
         self.connected = false;
         match code {
-            CloseCode::Normal => println!("The client is done with the connection."),
-            CloseCode::Away => println!("The client is leaving the site."),
-            _ => println!("The client encountered an error: {}", reason),
+            CloseCode::Normal => println!("Client is done with the connection."),
+            CloseCode::Away => println!("Client is leaving the site."),
+            _ => println!("Client encountered an error: {}", reason),
         };
     }
 
@@ -49,12 +40,34 @@ impl Handler for Client {
     }
 }
 
+/**
+ * Next tasks -
+ *
+ * 1. Something in the handler has to be waiting on the receiver to get data. When it gets data, some code
+ *      will need to run that will take that data and send it up to the client.
+ * 2. The channel should get a single collection of multiple items instead of multiple single items.
+ * 3. Somewhere, there will need to be a struct -> JSON string conversion so the client can make
+ *      easy use of the data that it receives.
+ */
+
 fn main() {
     env_logger::init();
-    listen("127.0.0.1:5000", |out| Client {
-        out: out,
-        connected: false,
-        comm_thread: None,
-    })
-    .unwrap()
+    let (tx, rx) = mpsc::channel::<LineItem>();
+
+    let socket_thread = thread::spawn(move || {
+        listen("127.0.0.1:5000", |out| Client {
+            out,
+            connected: false,
+            rx: &rx,
+        })
+        .unwrap()
+    });
+    println!("Socket thread started");
+
+    let mut parser = Parser::new("data.txt");
+    let parser_thread = thread::spawn(move || parser.read_loop(&tx));
+    println!("Parser thread started");
+
+    socket_thread.join().unwrap();
+    parser_thread.join().unwrap();
 }
