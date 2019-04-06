@@ -9,15 +9,31 @@
 </head>
 
 <body>
-  <div id="output"></div>
+  <button id="getMore">Get More</button>
+  <br />
+  <br />
+  <textarea id="logs" rows="30" cols="200" readonly></textarea>
+
   <script type="text/javascript">
+
+    const logs = document.querySelector('#logs');
+    const log = (msg) => {
+      logs.innerHTML += msg + '\n'
+    }
+
     const socket = new WebSocket('ws://127.0.0.1:5000')
     socket.onmessage = (event) => {
-      console.log('Received data from server:', event.data)
+      console.log(event.data)
+      const parsed = JSON.parse(event.data)
+      const toLog = parsed.map(e => JSON.stringify(e)).join('\n')
+      log('Received data from the server:\n' + toLog + '\n\n')
     }
-    socket.onopen = () => {
-      socket.send('test')
-    }
+
+    const button = document.querySelector('#getMore')
+    button.addEventListener('click', () => {
+      socket.send('send')
+    })
+
   </script>
 </body>
 

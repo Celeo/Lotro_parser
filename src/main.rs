@@ -1,33 +1,40 @@
 mod parser;
 
-use parser::{LineItem, Parser};
+use parser::{CombatEvent, Parser};
+use serde_json;
 use std::sync::mpsc;
 use std::thread;
 use ws::{
-    listen, CloseCode, Error as SocketError, Handler, Handshake, Result as SocketResult, Sender,
+    listen, CloseCode, Error as SocketError, Handler, Message, Result as SocketResult, Sender,
 };
 
 struct Client<'a> {
     out: Sender,
-    connected: bool,
-    rx: &'a mpsc::Receiver<LineItem>,
+    rx: &'a mpsc::Receiver<Vec<CombatEvent>>,
 }
 
 impl<'a> Handler for Client<'a> {
-    fn on_open(&mut self, _: Handshake) -> SocketResult<()> {
-        self.connected = true;
-        println!("Client connected");
-        Ok(())
+    fn on_message(&mut self, msg: Message) -> SocketResult<()> {
+        println!("Got message from client: {}", msg);
+        match self.rx.try_recv() {
+            Ok(data) => {
+                let actual = data;
+                let json = serde_json::to_string(&actual).unwrap();
+                self.out.send(json)
+            }
+            Err(e) => {
+                match e {
+                    mpsc::TryRecvError::Empty => {
+                        println!("Can not send client data - no remaining data")
+                    }
+                    mpsc::TryRecvError::Disconnected => eprintln!("Client isn't connected"),
+                }
+                Ok(())
+            }
+        }
     }
 
-    // fn on_message(&mut self, msg: Message) -> SocketResult<()> {
-    //     println!("Got message from client: {}", msg);
-    //     let new_msg = format!("Server response: '{}'", msg);
-    //     self.out.send(new_msg)
-    // }
-
     fn on_close(&mut self, code: CloseCode, reason: &str) {
-        self.connected = false;
         match code {
             CloseCode::Normal => println!("Client is done with the connection."),
             CloseCode::Away => println!("Client is leaving the site."),
@@ -40,28 +47,12 @@ impl<'a> Handler for Client<'a> {
     }
 }
 
-/**
- * Next tasks -
- *
- * 1. Something in the handler has to be waiting on the receiver to get data. When it gets data, some code
- *      will need to run that will take that data and send it up to the client.
- * 2. The channel should get a single collection of multiple items instead of multiple single items.
- * 3. Somewhere, there will need to be a struct -> JSON string conversion so the client can make
- *      easy use of the data that it receives.
- */
-
 fn main() {
     env_logger::init();
-    let (tx, rx) = mpsc::channel::<LineItem>();
+    let (tx, rx) = mpsc::channel::<Vec<CombatEvent>>();
 
-    let socket_thread = thread::spawn(move || {
-        listen("127.0.0.1:5000", |out| Client {
-            out,
-            connected: false,
-            rx: &rx,
-        })
-        .unwrap()
-    });
+    let socket_thread =
+        thread::spawn(move || listen("127.0.0.1:5000", |out| Client { out, rx: &rx }).unwrap());
     println!("Socket thread started");
 
     let mut parser = Parser::new("data.txt");
