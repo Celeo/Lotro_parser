@@ -1,20 +1,20 @@
 use lazy_static::lazy_static;
 use regex::Regex;
-use serde::Serialize;
+use std::fmt;
 use std::fs::File;
 use std::io::prelude::BufRead;
 use std::io::BufReader;
-use std::sync::mpsc::Sender;
+use std::sync::mpsc::{Receiver, Sender, TryRecvError};
 use std::thread;
 use std::time::{Duration, SystemTime};
 
-#[derive(Clone, Serialize)]
+#[derive(Clone, Debug)]
 pub enum CombatEventType {
     DAMAGE,
     HEAL,
 }
 
-#[derive(Clone, Serialize)]
+#[derive(Clone)]
 pub struct CombatEvent {
     source: String,
     target: String,
@@ -22,6 +22,25 @@ pub struct CombatEvent {
     value: u64,
     event_type: CombatEventType,
     timestamp: SystemTime,
+}
+
+impl fmt::Display for CombatEvent {
+    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
+        write!(
+            f,
+            "'{} | {} | {} | {} | {:?} | {}'",
+            if self.source != "" {
+                &self.source
+            } else {
+                "* unknown *"
+            },
+            self.target,
+            self.method,
+            self.value,
+            self.event_type,
+            self.timestamp.elapsed().unwrap().as_millis()
+        )
+    }
 }
 
 pub struct Parser {
@@ -35,9 +54,16 @@ impl Parser {
         Parser { reader }
     }
 
-    pub fn read_loop(&mut self, rx: &Sender<Vec<CombatEvent>>) {
+    pub fn read_loop(&mut self, data_tx: &Sender<Vec<CombatEvent>>, cancel_rx: &Receiver<()>) {
         let mut lines = vec![];
         loop {
+            match cancel_rx.try_recv() {
+                Ok(_) | Err(TryRecvError::Disconnected) => {
+                    println!("Exiting parse loop.");
+                    break;
+                }
+                Err(TryRecvError::Empty) => {}
+            };
             loop {
                 let mut line = String::new();
                 self.reader.read_line(&mut line).unwrap();
@@ -53,8 +79,7 @@ impl Parser {
                 thread::sleep(Duration::from_secs(1));
                 continue;
             }
-            println!("Sending {} lines to the channel", lines.len());
-            rx.send(lines.clone()).unwrap();
+            data_tx.send(lines.clone()).unwrap();
             lines.clear();
         }
     }

@@ -1,64 +1,45 @@
 mod parser;
 
+use crossterm::{ClearType, Crossterm};
 use parser::{CombatEvent, Parser};
-use serde_json;
+use std::io::{self, Write};
 use std::sync::mpsc;
 use std::thread;
-use ws::{
-    listen, CloseCode, Error as SocketError, Handler, Message, Result as SocketResult, Sender,
-};
 
-struct Client<'a> {
-    out: Sender,
-    rx: &'a mpsc::Receiver<Vec<CombatEvent>>,
-}
+fn main() {
+    let ct = Crossterm::new();
+    let term = ct.terminal();
+    let input = ct.input();
+    let mut cursor = ct.cursor();
+    term.clear(ClearType::All).unwrap();
 
-impl<'a> Handler for Client<'a> {
-    fn on_message(&mut self, msg: Message) -> SocketResult<()> {
-        println!("Got message from client: {}", msg);
-        match self.rx.try_recv() {
+    let (data_tx, data_rx) = mpsc::channel::<Vec<CombatEvent>>();
+    let (cancel_tx, cancel_rx) = mpsc::channel();
+    let mut parser = Parser::new("data.txt");
+    let parser_thread = thread::spawn(move || parser.read_loop(&data_tx, &cancel_rx));
+
+    loop {
+        match data_rx.try_recv() {
             Ok(data) => {
-                let actual = data;
-                let json = serde_json::to_string(&actual).unwrap();
-                self.out.send(json)
-            }
-            Err(e) => {
-                match e {
-                    mpsc::TryRecvError::Empty => {
-                        println!("Can not send client data - no remaining data")
-                    }
-                    mpsc::TryRecvError::Disconnected => eprintln!("Client isn't connected"),
+                for event in data {
+                    println!("Got data from receiver: {}", event);
                 }
-                Ok(())
             }
+            Err(_) => {
+                println!("Couldn't get data from receiver");
+            }
+        };
+        print!("> ");
+        io::stdout().flush().unwrap();
+        let key = input.read_char().unwrap();
+        term.clear(ClearType::CurrentLine).unwrap();
+        cursor.move_left(cursor.pos().0);
+        if key == 'q' {
+            println!("Exiting loop");
+            break;
         }
     }
 
-    fn on_close(&mut self, code: CloseCode, reason: &str) {
-        match code {
-            CloseCode::Normal => println!("Client is done with the connection."),
-            CloseCode::Away => println!("Client is leaving the site."),
-            _ => println!("Client encountered an error: {}", reason),
-        };
-    }
-
-    fn on_error(&mut self, err: SocketError) {
-        println!("The server encountered an error: {:?}", err);
-    }
-}
-
-fn main() {
-    env_logger::init();
-    let (tx, rx) = mpsc::channel::<Vec<CombatEvent>>();
-
-    let socket_thread =
-        thread::spawn(move || listen("127.0.0.1:5000", |out| Client { out, rx: &rx }).unwrap());
-    println!("Socket thread started");
-
-    let mut parser = Parser::new("data.txt");
-    let parser_thread = thread::spawn(move || parser.read_loop(&tx));
-    println!("Parser thread started");
-
-    socket_thread.join().unwrap();
+    cancel_tx.send(()).unwrap();
     parser_thread.join().unwrap();
 }
