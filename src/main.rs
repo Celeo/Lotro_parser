@@ -22,12 +22,10 @@ fn main() {
         match data_rx.try_recv() {
             Ok(data) => {
                 for event in data {
-                    println!("Got data from receiver: {}", event);
+                    println!("{}", event);
                 }
             }
-            Err(_) => {
-                println!("Couldn't get data from receiver");
-            }
+            Err(_) => {}
         };
         print!("> ");
         io::stdout().flush().unwrap();
@@ -35,7 +33,6 @@ fn main() {
         term.clear(ClearType::CurrentLine).unwrap();
         cursor.move_left(cursor.pos().0);
         if key == 'q' {
-            println!("Exiting loop");
             break;
         }
     }

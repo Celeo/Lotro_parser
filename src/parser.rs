@@ -59,7 +59,6 @@ impl Parser {
         loop {
             match cancel_rx.try_recv() {
                 Ok(_) | Err(TryRecvError::Disconnected) => {
-                    println!("Exiting parse loop.");
                     break;
                 }
                 Err(TryRecvError::Empty) => {}
