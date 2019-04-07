@@ -1,36 +1,41 @@
 mod parser;
 
-use crossterm::{ClearType, Crossterm};
+use crossterm::{terminal, ClearType, InputEvent, KeyEvent, Screen};
 use parser::{CombatEvent, Parser};
-use std::io::{self, Write};
 use std::sync::mpsc;
 use std::thread;
+use std::time::Duration;
 
 fn main() {
-    let ct = Crossterm::new();
-    let term = ct.terminal();
-    let input = ct.input();
-    let mut cursor = ct.cursor();
-    term.clear(ClearType::All).unwrap();
+    let screen = Screen::new(true);
+    let term = terminal();
+    let input = crossterm::TerminalInput::from_output(&screen.stdout);
+    let mut stdin = input.read_async();
 
     let (data_tx, data_rx) = mpsc::channel::<Vec<CombatEvent>>();
     let (cancel_tx, cancel_rx) = mpsc::channel();
     let mut parser = Parser::new("data.txt");
     let parser_thread = thread::spawn(move || parser.read_loop(&data_tx, &cancel_rx));
+    let mut running = true;
 
-    loop {
+    term.clear(ClearType::All).unwrap();
+
+    while running {
         if let Ok(data) = data_rx.try_recv() {
             for event in data {
-                println!("{}", event);
+                print!("{}\n\r", event);
             }
         }
-        print!("> ");
-        io::stdout().flush().unwrap();
-        let key = input.read_char().unwrap();
-        term.clear(ClearType::CurrentLine).unwrap();
-        cursor.move_left(cursor.pos().0);
-        if key == 'q' {
-            break;
+        if let Some(key_event) = stdin.next() {
+            match key_event {
+                InputEvent::Keyboard(key) => match key {
+                    KeyEvent::Char('q') | KeyEvent::Ctrl('c') => running = false,
+                    _ => {}
+                },
+                _ => {}
+            };
+        } else {
+            thread::sleep(Duration::from_millis(500));
         }
     }
 

@@ -74,7 +74,7 @@ impl Parser {
                     lines.push(parsed.unwrap());
                 }
             }
-            if lines.len() < 10 {
+            if lines.is_empty() {
                 thread::sleep(Duration::from_secs(1));
                 continue;
             }
