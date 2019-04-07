@@ -19,14 +19,11 @@ fn main() {
     let parser_thread = thread::spawn(move || parser.read_loop(&data_tx, &cancel_rx));
 
     loop {
-        match data_rx.try_recv() {
-            Ok(data) => {
-                for event in data {
-                    println!("{}", event);
-                }
+        if let Ok(data) = data_rx.try_recv() {
+            for event in data {
+                println!("{}", event);
             }
-            Err(_) => {}
-        };
+        }
         print!("> ");
         io::stdout().flush().unwrap();
         let key = input.read_char().unwrap();

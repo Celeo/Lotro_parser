@@ -66,7 +66,7 @@ impl Parser {
             loop {
                 let mut line = String::new();
                 self.reader.read_line(&mut line).unwrap();
-                if line.len() == 0 {
+                if line.is_empty() {
                     break;
                 }
                 let parsed = Parser::parse_line(&line);
