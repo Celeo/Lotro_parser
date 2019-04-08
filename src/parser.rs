@@ -8,7 +8,7 @@ use std::sync::mpsc::{Receiver, Sender, TryRecvError};
 use std::thread;
 use std::time::{Duration, SystemTime};
 
-#[derive(Clone, Debug)]
+#[derive(Clone, Debug, PartialEq)]
 pub enum CombatEventType {
     DAMAGE,
     HEAL,
@@ -16,12 +16,12 @@ pub enum CombatEventType {
 
 #[derive(Clone)]
 pub struct CombatEvent {
-    source: String,
-    target: String,
-    method: String,
-    value: u64,
-    event_type: CombatEventType,
-    timestamp: SystemTime,
+    pub source: String,
+    pub target: String,
+    pub method: String,
+    pub value: u64,
+    pub event_type: CombatEventType,
+    pub timestamp: SystemTime,
 }
 
 impl fmt::Display for CombatEvent {
