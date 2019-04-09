@@ -9,6 +9,16 @@ use std::sync::mpsc;
 use std::thread;
 use std::time::Duration;
 
+/**
+ * Okay, pulling back. I didn't know that the LotRO combat log only records damage and healing done by or to
+ * the user's own character. It does not record damage or healing done by or to the rest of the fellowship or
+ * raid, or even by enemies done to others - the only events that are recorded are combat events that originate
+ * with or are targeted on the user's own character.
+ *
+ * Because of this, I cannot create a parser that expects to print out the DPS or HPS of anything other than
+ * the user's character or enemies attacking the character.
+ */
+
 fn display(data: &Vec<CombatEvent>) {
     let mut map = HashMap::<&str, u64>::new();
     for item in data
